@@ -11709,7 +11709,7 @@ main .service-card .service-title {
 main .service-card .service-description {
   font-size: 13px;
   font-weight: 300;
-  max-width: 180px;
+  max-width: 350px;
   margin-bottom: 0;
 }
 
